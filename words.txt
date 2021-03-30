@@ -1,0 +1,6 @@
+apple
+car
+pringles
+hamburger
+chips
+chocolate
